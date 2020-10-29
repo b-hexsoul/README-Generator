@@ -1,9 +1,9 @@
 
-[![ISC License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://opensource.org/licenses/ISC)
-# adsfasdfa
+[![Mozilla License 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
+# README Generator
 
 ## Description
-asdfasdfasdfsafjajv f asjdf alksjdfa  jfasldfj az xcjvh asdfjkha cxvnzxmalsdfh 
+This is a CLI application that will generate a README file based on prompts the user answers
 
 ## Table of Contents
 * [Installation](#installation)
@@ -14,20 +14,21 @@ asdfasdfasdfsafjajv f asjdf alksjdfa  jfasldfj az xcjvh asdfjkha cxvnzxmalsdfh
 * [Questions](#questions)
 
 ## Installation
-None
+Later man, later...
 
 ## Usage
 Instructions coming soon
 
 ## License
-ISC License
-This application is covered under ISC License, visit https://opensource.org/licenses/ISC for more information
+Mozilla Public License 2.0
+This application is covered under Mozilla License 2.0, visit https://www.mozilla.org/en-US/MPL/2.0/ for more information
 
 ## Contributing
 false
 
 ## Tests
-asdfasdf
+No tests created
 
 ## Questions
-asdfasdfd
+Take a look at my github b-hexsoul
+Shoot me an email b.h@gmail.com
