@@ -23,39 +23,38 @@ function generateMarkdown(data) {
 
   //"GNU GPLv3", "ISC License", "Apache License 2.0", "Mozilla Public License 2.0"
   return `
-    ${badge}
-    # ${data.title}
+${badge}
+# ${data.title}
 
-    ## Description
-    ${data.description}
+## Description
+${data.description}
 
-    ## Table of Contents
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
-    
-    ## Installation
-    ${data.installation}
-    
-    ## Usage
-    ${data.usage}
-    
-    ## License
-    ${data.license}
-    ${licenseText}
-    
-    ## Contributing
-    ${data.contributing}
-    
-    ## Tests
-    ${data.tests}
-    
-    ## Questions
-    ${data.questions}
-  `;
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+
+## Installation
+${data.installation}
+
+## Usage
+${data.usage}
+
+## License
+${data.license}
+${licenseText}
+
+## Contributing
+${data.contributing}
+
+## Tests
+${data.tests}
+
+## Questions
+${data.questions}`;
 }
 
 module.exports = generateMarkdown;
